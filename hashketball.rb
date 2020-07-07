@@ -57,6 +57,7 @@ def game_hash
       },
        ]
     }
+  }
   {away:
   {team_name:'Charlotte Hornets', 
     colors:['Turquoise','Purple'], 
@@ -112,6 +113,7 @@ def game_hash
       slam_dunks:12
       },
        ]
+  }
   }
 }
 end
