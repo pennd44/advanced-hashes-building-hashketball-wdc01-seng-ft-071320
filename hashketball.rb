@@ -54,10 +54,9 @@ def game_hash
       steals:4,
       blocks:11,
       slam_dunks:1 
-      },
-       ]
+      }
+      ]
     }
-  }
   away:
   {team_name:'Charlotte Hornets', 
     colors:['Turquoise','Purple'], 
@@ -111,8 +110,8 @@ def game_hash
       steals:7,
       blocks:5,
       slam_dunks:12
-      },
-       ]
+      }
+      ]
+    }
   }
-}
 end
