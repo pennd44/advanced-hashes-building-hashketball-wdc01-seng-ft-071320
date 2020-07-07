@@ -1,6 +1,6 @@
 # Write your code here!
 def game_hash
-hash={{home:
+{{home:
   {team_name:'', 
   colors:['',''], 
   players:[
@@ -13,7 +13,7 @@ hash={{home:
     steals:
     blocks:
     slam_dunks:
-    }]
+    }],
 {away:
 }
 end
